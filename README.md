@@ -5,10 +5,8 @@
 ### https://github.com/justin-moss-swd/Solidity_Foundry_Defi-StableCoin
 ### https://github.com/justin-moss-swd/Solidity_Foundry_Lottery
 ### https://github.com/justin-moss-swd/Solidity_Foundry_NFT
-### https://github.com/justin-moss-swd/solidity_foundry_basics
-### https://github.com/justin-moss-swd/Solana_Rust_Anchor_NFT
 
-<!--
+
 **justin-moss-swd/justin-moss-swd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -21,4 +19,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
