@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### My name is Justin Moss and this is my code repository portfolio.  Below you will find excerts of current projects that I am working on.
+### My name is Justin Moss and this is my code repository portfolio.  Below you will find code of projects that I have worked on or are currently working on.
 
 ### https://github.com/justin-moss-swd/Solidity_Foundry_Defi-StableCoin
 ### https://github.com/justin-moss-swd/Solidity_Foundry_Lottery
