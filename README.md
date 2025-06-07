@@ -2,19 +2,22 @@
 
 ### Welcome to my code repository portfolio.  Below you will find a few projects that I have worked on or are currently working on.
 
-Full Stack NFT Marketplace
+## Full Stack NFT Marketplace
 ### https://github.com/justin-moss-swd/NFTMarketplace
 
-Full Stack Airdrop
+## AI Agent
+### https://github.com/justin-moss-swd/AI_Agent
+
+## Full Stack Airdrop
 ### https://github.com/justin-moss-swd/Full-Stack_Airdrop
 
-Defi StableCoin
+## Defi StableCoin
 ### https://github.com/justin-moss-swd/Solidity_Foundry_Defi-StableCoin
 
-Lottery
+## Lottery
 ### https://github.com/justin-moss-swd/Solidity_Foundry_Lottery
 
-NFT
+## NFT
 ### https://github.com/justin-moss-swd/Solidity_Foundry_NFT
 
 <!--
