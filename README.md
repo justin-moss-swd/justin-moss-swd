@@ -1,9 +1,20 @@
 ## Hi there 👋
 
-### My name is Justin Moss and this is my code repository portfolio.  Below you will find code of projects that I have worked on or are currently working on.
+### Welcome to my code repository portfolio.  Below you will find a few projects that I have worked on or are currently working on.
 
+Full Stack NFT Marketplace
+### https://github.com/justin-moss-swd/NFTMarketplace
+
+Full Stack Airdrop
+### https://github.com/justin-moss-swd/Full-Stack_Airdrop
+
+Defi StableCoin
 ### https://github.com/justin-moss-swd/Solidity_Foundry_Defi-StableCoin
+
+Lottery
 ### https://github.com/justin-moss-swd/Solidity_Foundry_Lottery
+
+NFT
 ### https://github.com/justin-moss-swd/Solidity_Foundry_NFT
 
 <!--
