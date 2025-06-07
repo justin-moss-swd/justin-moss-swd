@@ -5,9 +5,6 @@
 ## Full Stack NFT Marketplace
 ### https://github.com/justin-moss-swd/NFTMarketplace
 
-## AI Agent
-### https://github.com/justin-moss-swd/AI_Agent
-
 ## Full Stack Airdrop
 ### https://github.com/justin-moss-swd/Full-Stack_Airdrop
 
@@ -16,6 +13,9 @@
 
 ## Lottery
 ### https://github.com/justin-moss-swd/Solidity_Foundry_Lottery
+
+## AI Agent
+### https://github.com/justin-moss-swd/AI_Agent
 
 ## NFT
 ### https://github.com/justin-moss-swd/Solidity_Foundry_NFT
